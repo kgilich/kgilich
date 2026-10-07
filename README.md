@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @kgilich
-- 👀 I’m interested in cloud, computers, hiking
-- 🌱 I’m currently learning [SCIF](https://blog.seznam.cz/2018/08/jak-se-provozuje-seznam-cz/) and Python
-<!--- - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me? --->
+# Hi there, I'm Kryštof Gilich 👋
 
-<!---
-kgilich/kgilich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Infrastructure Engineer and others
+[LinkedIn](https://linkedin.com/in/kgilich)
+---
+
+### 🛠️ Tech & Infrastructure Stack
+
+**Cloud & Infra:** Private Cloud · Kubernetes · Docker / Colima · Ansible  
+**Networking & Security:** Software Firewalls · Cloud Security · Gatekeeper / OPA · EN Standards  
+**Languages & Tooling:** Python (`uv`) · Go · Bash · Git · Linux
+**Monitoring & Metrics:** Prometheus · Grafana 
+**Life Offline:** Indoor bouldering (projecting V6/V7) and trailing with my Border Collie 🐾.
