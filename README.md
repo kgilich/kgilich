@@ -1,7 +1,6 @@
 # Hi there, I'm Kryštof Gilich 👋
 
-Infrastructure Engineer and others
-[LinkedIn](https://linkedin.com/in/kgilich)
+Infrastructure Engineer / DevOps
 ---
 
 ### 🛠️ Tech & Infrastructure Stack
